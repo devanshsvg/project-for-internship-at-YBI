@@ -1,0 +1,5 @@
+Speech Recognition and pyaudio
+
+to install them follow this cmd
+pip install SpeechRecognition
+pip install pyaudio
